@@ -22,7 +22,7 @@ class UI {
             <li class="list-group-item">Company: ${user.company}</li>
             <li class="list-group-item">Website/Blog: ${user.blog}</li>
             <li class="list-group-item">Location: ${user.location}</li>
-            <li class="list-group-item">Mmber since: ${user.created_at}</li>
+            <li class="list-group-item">Member since: ${user.created_at}</li>
           </ul>
         </div>
       </div>
